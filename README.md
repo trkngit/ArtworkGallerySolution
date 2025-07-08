@@ -31,6 +31,3 @@ This is a multi-layered C#/.NET 8 project designed to manage an artwork gallery'
 2. Add your PostgreSQL connection string to `appsettings.json`
 3. Run `dotnet ef database update` to migrate
 4. Launch with `dotnet run`
-
-## Status
-✅ Project completed during internship, July 2025
