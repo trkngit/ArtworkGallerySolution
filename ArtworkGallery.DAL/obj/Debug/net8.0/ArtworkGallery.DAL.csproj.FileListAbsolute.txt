@@ -1,0 +1,26 @@
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.deps.json
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.csproj.AssemblyReference.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.AssemblyInfoInputs.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.AssemblyInfo.cs
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.csproj.CoreCompileInputs.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/refint/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ref/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.deps.json
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.runtimeconfig.json
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/bin/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.csproj.AssemblyReference.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.AssemblyInfoInputs.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.AssemblyInfo.cs
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.csproj.CoreCompileInputs.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/refint/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ArtworkGallery.DAL.genruntimeconfig.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.DAL/obj/Debug/net8.0/ref/ArtworkGallery.DAL.dll

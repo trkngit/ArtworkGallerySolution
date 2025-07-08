@@ -1,0 +1,30 @@
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.deps.json
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.pdb
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.csproj.AssemblyReference.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.AssemblyInfoInputs.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.AssemblyInfo.cs
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.csproj.CoreCompileInputs.cache
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkG.59D861C2.Up2Date
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/refint/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.pdb
+/Users/tarkansurav/Desktop/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ref/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.deps.json
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.pdb
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.DAL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.DAL.pdb
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.csproj.AssemblyReference.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.AssemblyInfoInputs.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.AssemblyInfo.cs
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.csproj.CoreCompileInputs.cache
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkG.59D861C2.Up2Date
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/refint/ArtworkGallery.BLL.dll
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.pdb
+/Users/tarkansurav/Desktop/Staj 2/ArtworkGallerySolution/ArtworkGallery.BLL/obj/Debug/net8.0/ref/ArtworkGallery.BLL.dll

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C5FC0B7F-1E11-4E65-8B26-0A2F569C4E2B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArtworkGallery.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets" Line="151" Column="5" />
+      <File FileName="ArtworkGallery.BLL/ArtworkGallery.BLL.csproj" Line="1" Column="23" />
+      <File FileName="ArtworkGallery.BLL/obj/ArtworkGallery.BLL.csproj.nuget.dgspec.json" Line="149" Column="10" />
+      <File FileName="ArtworkGallery.BLL/bin/Debug/net8.0/ArtworkGallery.BLL.deps.json" Line="8" Column="1" />
+      <File FileName="ArtworkGallery.BLL/obj/Debug/net8.0/ArtworkGallery.BLL.GlobalUsings.g.cs" Line="6" Column="27" />
+      <File FileName="ArtworkGallery.DAL/ArtworkGallery.DAL.csproj" Line="4" Column="26" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArtworkGallerySolution" expanded="True">
+            <Node name="ArtworkGallery.BLL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="AutoMapper.Extensions.Microsoft.DependencyInjection" expanded="True" selected="True">
+                    <Node name="Microsoft.Extensions.Options" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
